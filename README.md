@@ -1,6 +1,6 @@
 ## Olá! Sou o Daniel Hott ✌️
 
-Tenho 22 anos, sou Desenvolvedor Front-End apaixonado pela área e estou à procura de minha primeira oportunidade!
+Tenho 22 anos, sou Desenvolvedor FullStack apaixonado pela área e estou à procura de minha primeira oportunidade!
 
  Acesse meu [portfólio](https://danielhott.github.io/)
 
