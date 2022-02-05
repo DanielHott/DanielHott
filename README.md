@@ -2,6 +2,8 @@
 
 Tenho 22 anos, sou Desenvolvedor Front-End apaixonado pela área e estou à procura de minha primeira oportunidade!
 
+ Acesse meu [portfólio](https://danielhott.github.io/)
+
 Confira meus principais projetos: 🍕 [App Food](https://github.com/DanielHott/food-app) 🎤 [beto hott](https://github.com/DanielHott/betohott) 👴👦 [React and Mocky](https://github.com/DanielHott/react-and-mocky)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielhott/)
