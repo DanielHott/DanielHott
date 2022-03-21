@@ -1,9 +1,10 @@
 ## Olá! Sou o Daniel Hott ✌️
 
 Tenho 22 anos, sou Desenvolvedor FullStack apaixonado pela área.
-(Muito do que produzo está em repositórios privados)
 
  Acesse meu [portfólio](https://danielhott.github.io/)
+ 
+ (Muito do que produzo está em repositórios privados!)
 
 Confira meus principais projetos: 🍕 [App Food](https://github.com/DanielHott/food-app) 🎤 [beto hott](https://github.com/DanielHott/betohott) 👴👦 [React and Mocky](https://github.com/DanielHott/react-and-mocky)
 
