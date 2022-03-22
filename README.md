@@ -1,6 +1,6 @@
 ## Olá! Sou o Daniel Hott ✌️
 
-Tenho 22 anos, sou Desenvolvedor FullStack apaixonado pela área.
+Tenho 22 anos, sou Desenvolvedor FullStack apaixonado pela área. Amo criar soluções para problemas reais com programação.
 
  Acesse meu [portfólio](https://danielhott.github.io/)
  
