@@ -7,9 +7,7 @@ I have 22 years old, i'm a fullstack developer and i love programming. I like to
 Check my main projects: ⚽ [Jogadores](https://github.com/DanielHott/jogadores-front) 🍕 [App Food](https://github.com/DanielHott/food-app) 🎤 [beto hott](https://github.com/DanielHott/betohott) 👴👦 [React and Mocky](https://github.com/DanielHott/react-and-mocky)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielhott/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/MiralezHernandez/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_hott/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danielhhott)
+
 
 ![Hott GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielHott&show_icons=true&theme=radical)
 
