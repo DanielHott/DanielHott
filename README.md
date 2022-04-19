@@ -26,3 +26,5 @@ Check my main projects: ⚽ [Jogadores](https://github.com/DanielHott/jogadores-
 ![Linkedin](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHott)](https://github.com/DanielHott/github-readme-stats)
