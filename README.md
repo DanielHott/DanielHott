@@ -9,7 +9,7 @@ Check my projects: [Loja de vinhos](https://github.com/DanielHott/wine-test), [M
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielhott/)
 
 
-![Hott GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielHott&show_icons=true&theme=radical)
+![Hott GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielHott&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ## My main technologies:
 
